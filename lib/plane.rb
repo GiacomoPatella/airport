@@ -5,8 +5,13 @@ class Plane
   end
 
   def in_the_air
-    @fying
+    @flying
   end
+
+  def takes_off
+  end
+
+
 
 
 end
